@@ -1,0 +1,23 @@
+#body-darck-off {
+  --primary-color: #53a62d;
+  --secondary-color: #f3f3f3;
+  --background-color: #f5f6fa;
+  --text-color: #333333;
+  --primary-text-color: #F8F9FA;
+  --secondary-text-color: #C7C7C7;
+  --highlighted-text-color: #00bfff;
+  --button-background-color: #00bfff;
+  --button-text-color: #FFFFFFFF;
+}
+
+#body-darck-on {
+  --primary-color: #1F1F1F;
+  --secondary-color: #2D2D2D;
+  --background-color: #121212;
+  --text-color: #F8F9FA;
+  --primary-text-color: #F8F9FA;
+  --secondary-text-color: #C7C7C7;
+  --highlighted-text-color: #00bfff;
+  --button-background-color: #00bfff;
+  --button-text-color: #FFFFFFFF;
+}

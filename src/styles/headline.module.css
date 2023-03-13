@@ -1,0 +1,13 @@
+.headline-container {
+    position: sticky;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+#material-symbols-outlined-favorite {
+    font-size: 370%;
+    text-align: start;
+    width: max-content;
+    justify-content: flex-end;
+    display: flex;
+}
