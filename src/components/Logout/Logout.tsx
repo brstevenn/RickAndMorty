@@ -19,7 +19,11 @@ function Logout() {
   };
 
   return (
-    <span onClick={signOut} className="material-symbols-outlined position-absolute top-0 end-0 w-25 m-1" id={styles["material-symbols-outlined"]}>
+    <span
+      onClick={signOut}
+      className="material-symbols-outlined position-absolute top-0 end-0 w-25 m-1"
+      id={styles["material-symbols-outlined"]}
+    >
       logout
     </span>
   );
